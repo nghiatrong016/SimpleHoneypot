@@ -13,7 +13,7 @@
 
 ## 2. Overview  
 
-![image](https://gist.github.com/user-attachments/assets/de6f77db-81d3-4aa6-ab42-2625b7d5e728)
+![Image](https://github.com/user-attachments/assets/1da7406e-54c5-4ea8-8e93-af1a664a43b0)
 
 - The project focuses on detecting and mitigating **Advanced Persistent Threats (APTs)** using a hybrid honeypot architecture.  
 - Combines **external** and **internal honeypots** to deceive attackers and monitor their activities.  
